@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srilakshmi-Dirisala
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on new copany
+- 💞️ I’m looking to collaborate on new company
 - 📫 How to reach me by call
 
 <!---
