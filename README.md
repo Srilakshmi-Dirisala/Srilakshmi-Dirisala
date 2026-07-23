@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E1E2F&height=220&section=header&text=Srilakshmi%20Dirisala&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://github.com/Srilakshmi-Dirisala">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Open+to+new+ideas+%26+startups+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B1;Turning+coffee+%26+trips+into+code+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Srilakshmi-Dirisala&color=6A5ACD&style=flat-square&label=Profile+Views" alt="profile views"/>
+
 </div>
 
 <br/>
@@ -10,7 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-```js
+<pre>
 const developer = {
   name: "Srilakshmi Dirisala",
   role: "Software Developer",
@@ -20,9 +26,9 @@ const developer = {
   funFact: "debugs code faster after a good trip ✈️",
 };
 
-console.log(developer.status); 
+console.log(developer.status);
 // > "Open to interesting problems & good conversations"
-```
+</pre>
 
 </td>
 <td width="40%" align="center">
@@ -53,6 +59,30 @@ console.log(developer.status);
 
 <img src="https://github-readme-stats.vercel.app/api?username=Srilakshmi-Dirisala&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilakshmi-Dirisala&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srilakshmi-Dirisala&theme=radical&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srilakshmi-Dirisala&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Srilakshmi-Dirisala/Srilakshmi-Dirisala/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
+
+<sub>⚠️ This animation needs a one-time GitHub Action setup — see the <code>snake.yml</code> file and instructions below.</sub>
 
 </div>
 
