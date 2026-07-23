@@ -1,51 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E1E2F&height=220&section=header&text=Srilakshmi%20Dirisala&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+```
+$ whoami
+```
 
-<a href="https://github.com/Srilakshmi-Dirisala">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Open+to+new+ideas+%26+startups+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B1;Turning+coffee+%26+trips+into+code+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=srilakshmi-dirisala" alt="whoami output" />
 
-<img src="https://komarev.com/ghpvc/?username=Srilakshmi-Dirisala&color=6A5ACD&style=flat-square&label=Profile+Views" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=Software+Developer;Booting+creativity...+100%25+complete;Compiling+ideas+into+code;Status%3A+ONLINE+and+open+to+collaborate" alt="terminal typing" />
+
+<img src="https://komarev.com/ghpvc/?username=Srilakshmi-Dirisala&color=39FF14&style=flat-square&label=CONNECTIONS" alt="profile views"/>
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+```bash
+srilakshmi@github:~$ cat about.txt
+```
 
-<pre>
-const developer = {
-  name: "Srilakshmi Dirisala",
-  role: "Software Developer",
-  location: "🌍 exploring, one place at a time",
-  currentlyLearning: ["new frameworks", "system design", "team building"],
-  lookingFor: "collaborators for a new company/startup 🚀",
-  funFact: "debugs code faster after a good trip ✈️",
-};
+```yaml
+name        : Srilakshmi Dirisala
+role        : Software Developer
+location    : 🌍 exploring, one place at a time
+status      : [ ONLINE ]
+learning    : new frameworks, system design, team building
+seeking     : collaborators for a new company / startup 🚀
+fun_fact    : debugs code faster after a good trip ✈️
+uptime      : counting commits since day one
+```
 
-console.log(developer.status);
-// > "Open to interesting problems & good conversations"
-</pre>
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="90"/>
-<br/><br/>
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVe/giphy.gif" width="220" alt="developer coding gif"/>
-
-</td>
-</tr>
-</table>
+```bash
+srilakshmi@github:~$ █
+```
 
 <br/>
 
-<div align="center">
+```bash
+srilakshmi@github:~$ ls -la ./tech-stack/
+```
 
-### 🧰 Tech I Work With
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux&theme=dark" />
 
@@ -53,14 +47,72 @@ console.log(developer.status);
 
 <br/>
 
+```bash
+srilakshmi@github:~$ ./run-diagnostics.sh
+```
+
 <div align="center">
 
-### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Srilakshmi-Dirisala&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilakshmi-Dirisala&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Srilakshmi-Dirisala&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilakshmi-Dirisala&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srilakshmi-Dirisala&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srilakshmi-Dirisala&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+```bash
+srilakshmi@github:~$ cat achievements.log
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srilakshmi-Dirisala&theme=darkhub&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+```bash
+srilakshmi@github:~$ ./visualize-contributions.sh --mode=snake
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Srilakshmi-Dirisala/Srilakshmi-Dirisala/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+
+<sub>⚠️ Needs the one-time <code>snake.yml</code> Action setup — see the notes below.</sub>
+
+</div>
+
+<br/>
+
+```bash
+srilakshmi@github:~$ cat open-to.conf
+```
+
+<div align="center">
+
+| STATUS | DESCRIPTION |
+|:---:|:---|
+| 💼 `AVAILABLE` | Collaborating on a new company |
+| 🌱 `ACTIVE`    | Learning & growing daily |
+| 🌍 `ENABLED`   | Travel-inspired projects |
+
+</div>
+
+<br/>
+
+```bash
+srilakshmi@github:~$ ping srilakshmi --connect
+```
+
+<div align="center">
+
+<a href="mailto:srilakshmi.dirisala.connect@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://www.linkedin.com/in/srilakshmi-dirisala"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+<a href="https://github.com/Srilakshmi-Dirisala"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
 
 </div>
 
@@ -68,45 +120,10 @@ console.log(developer.status);
 
 <div align="center">
 
-### 🏆 Trophies
+```
+$ process exited with code 0
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srilakshmi-Dirisala&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Srilakshmi-Dirisala/Srilakshmi-Dirisala/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
-
-<sub>⚠️ This animation needs a one-time GitHub Action setup — see the <code>snake.yml</code> file and instructions below.</sub>
+<sub><i>"Simplicity is the soul of efficiency." — Austin Freeman</i></sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Open To
-
-| 💼 Collaborating on a new company | 🌱 Learning & growing daily | 🌍 Travel-inspired projects |
-|:---:|:---:|:---:|
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📬 Reach Me
-
-<a href="mailto:srilakshmi.dirisala.connect@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/srilakshmi-dirisala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Srilakshmi-Dirisala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2F,100:6A5ACD&height=100&section=footer" width="100%"/>
